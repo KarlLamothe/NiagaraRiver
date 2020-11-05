@@ -7,3 +7,5 @@ The Niagara River, which connects two Great Lakes (Erie and Ontario) and forms a
 
 <b>Acknowledgments</b>
 This work was made possible by the many individuals involved in field sampling, including Robin Gáspárdy, Jason Barnucz, Calder Robinson, Meg Sheldon, Kurtis Smith, Sara Smith, Noel Soogrim, Erik Tuononen, Alex Verkuyl, Nicholas Wasilik, Carly White, Mallory Wiebe, and Kirsten Wuerch. Funding for sampling was provided by Environment and Climate Change Canada's Great Lakes Action Plan program and Fisheries and Oceans Canada. Boat electrofishing was conducted under Animal Use Protocol AUP 1322-A and Standard Operating Protocol GWACC-111. All sampling was approved by the Environment and Climate Change Canada and Fisheries and Oceans Canada Animal Care Committee (operated under the approval of the Canadian Council on Animal Care). Funding for KAL was provided through a Natural Sciences and Engineering Research Council of Canada Visiting Fellowship with Fisheries and Oceans Canada and the Canadian Freshwater Species at Risk Research Network.
+
+Please contact Karl Lamothe prior to use of these data.
